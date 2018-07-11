@@ -1,0 +1,31 @@
+*{font-family: 'Montserrat', sans-serif;}
+.branco{background-color: #FFF;}
+#logount:hover{background-color: red;}
+
+.bg-amarelo
+{
+	color: #eae252;
+}
+
+.bg-vermelho
+{
+	color: #f77676 ;
+}
+
+#link-user a
+{
+	color: #fff !important;
+	background-color: #337AB7;
+}
+
+#link-user a:hover
+{	
+	color: #fff !important;
+	background-color: #4f99d6;
+}
+
+#link-user a:focus
+{	
+	color: #fff !important;
+	background-color: #4f99d6;
+}
